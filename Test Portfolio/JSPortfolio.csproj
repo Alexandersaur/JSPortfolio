@@ -156,6 +156,7 @@
     <Content Include="img\clients\client-5.png" />
     <Content Include="img\clients\client-6.png" />
     <Content Include="img\clients\client-7.png" />
+    <Content Include="img\FinPortalSS.png" />
     <Content Include="img\fizzbuzz.png" />
     <Content Include="img\Hult_transparent_logo.png" />
     <Content Include="img\main_bg.png" />
@@ -173,6 +174,9 @@
     <Content Include="img\portfolio\full\5.jpg" />
     <Content Include="img\portfolio\full\6.jpg" />
     <Content Include="img\profile.png" />
+    <Content Include="img\Screen Shot 2021-06-16 at 8.42.26 PM.png" />
+    <Content Include="img\Screen Shot 2021-06-16 at 8.45.19 PM.png" />
+    <Content Include="img\Screen Shot 2021-06-16 at 8.48.26 PM.png" />
     <Content Include="img\Sumofallfears.png" />
     <Content Include="img\sunset hills.png" />
     <Content Include="img\taccocat.png" />
