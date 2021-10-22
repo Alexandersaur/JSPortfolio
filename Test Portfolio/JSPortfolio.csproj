@@ -258,6 +258,7 @@
     <Content Include="fonts\Pe-icon-7-stroke.woff" />
     <Content Include="img\testimonials\Thumbs.db" />
     <Content Include="img\Jeremy Steward FINAL Resume %281%29.pdf" />
+    <Content Include="img\Jeremy Steward Resume.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
