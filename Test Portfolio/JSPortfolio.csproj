@@ -146,6 +146,10 @@
     <Content Include="img\blog\blog_post_7_full.jpg" />
     <Content Include="img\blog\blog_post_8.jpg" />
     <Content Include="img\blog\blog_post_8_full.jpg" />
+    <Content Include="img\bugtrack1.png" />
+    <Content Include="img\bugtrack2.png" />
+    <Content Include="img\bugtrack3.png" />
+    <Content Include="img\bugtrack4.png" />
     <Content Include="img\bugzap.png" />
     <Content Include="img\BugZapLogo copy.png" />
     <Content Include="img\CleanShot 2021-03-03 at 17.59.03%402x.png" />
@@ -159,6 +163,7 @@
     <Content Include="img\clients\client-7.png" />
     <Content Include="img\FinPortalSS.png" />
     <Content Include="img\fizzbuzz.png" />
+    <Content Include="img\helpticketimg.png" />
     <Content Include="img\Hult_transparent_logo.png" />
     <Content Include="img\huuuguu.jpg" />
     <Content Include="img\jbjbbj.png" />
@@ -212,6 +217,7 @@
     <Content Include="js\perfect-scrollbar.min.js" />
     <Content Include="js\validator.js" />
     <Content Include="portfolio-1.html" />
+    <Content Include="portfolio-3.html" />
     <Content Include="portfolio-2.html" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -259,6 +265,7 @@
     <Content Include="img\testimonials\Thumbs.db" />
     <Content Include="img\Jeremy Steward FINAL Resume %281%29.pdf" />
     <Content Include="img\Jeremy Steward Resume.pdf" />
+    <Content Include="img\helpticket.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
