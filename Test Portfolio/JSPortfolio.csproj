@@ -266,6 +266,7 @@
     <Content Include="img\Jeremy Steward FINAL Resume %281%29.pdf" />
     <Content Include="img\Jeremy Steward Resume.pdf" />
     <Content Include="img\helpticket.pdf" />
+    <Content Include="img\Jeremy Steward Resume 2021.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
